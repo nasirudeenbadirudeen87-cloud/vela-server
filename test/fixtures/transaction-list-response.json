@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "direction": "SENT",
+      "stellarTxHash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "counterparty": "GC43WDPPGCGGMMGJWZ2TSRQ2SEG7A4WCBE2MDQFQYFOIV6SBH7372UUA",
+      "asset": "USDC",
+      "amount": "10.50",
+      "memo": null,
+      "network": "TESTNET",
+      "ledger": 12345,
+      "createdAt": "2026-05-29T12:00:00.000Z",
+      "explorerUrl": "https://stellar.expert/explorer/testnet/tx/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    }
+  ],
+  "meta": { "page": 1, "limit": 20, "total": 1, "totalPages": 1 }
+}
